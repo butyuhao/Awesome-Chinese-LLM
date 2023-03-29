@@ -34,6 +34,8 @@ https://huggingface.co/datasets/BelleGroup/generated_train_1M_CN 链家参考[St
 
 https://huggingface.co/datasets/BelleGroup/generated_train_0.5M_CN 链家参考[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) 生成的中文数据集0.5M
 
+https://zhuanlan.zhihu.com/p/163616279/ HelloNLP总结的多个中文预训练语料
+
 # 中文大模型测评
 
 待补充。。。
