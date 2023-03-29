@@ -30,13 +30,19 @@ https://github.com/ymcui/Chinese-LLaMA-Alpaca/tree/v1.0 中文LLaMA&Alpaca大语
 
 https://github.com/XueFuzhao/InstructionWild colossal-ai的self-instruct数据集，中英。
 
-https://github.com/LianjiaTech/BELLE/blob/main/zh_seed_tasks.json 链家的self-instruct数据集
+https://github.com/LianjiaTech/BELLE/blob/main/zh_seed_tasks.json lianjia.tech的self-instruct数据集
 
-https://huggingface.co/datasets/BelleGroup/generated_train_1M_CN 链家参考[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) 生成的中文数据集1M
+https://huggingface.co/datasets/BelleGroup/generated_train_1M_CN lianjia.tech参考[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) 生成的中文数据集1M
 
-https://huggingface.co/datasets/BelleGroup/generated_train_0.5M_CN 链家参考[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) 生成的中文数据集0.5M
+https://huggingface.co/datasets/BelleGroup/generated_train_0.5M_CN lianjia.tech参考[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) 生成的中文数据集0.5M
 
 https://zhuanlan.zhihu.com/p/163616279/ HelloNLP总结的多个中文预训练语料
+
+https://github.com/dbiir/UER-py/wiki/%E9%A2%84%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE CLUECorpusSmall，News Commentary v13
+
+https://github.com/ydli-ai/Chinese-ChatLLaMA#%E4%B8%AD%E6%96%87%E6%8C%87%E4%BB%A4%E6%95%B0%E6%8D%AE%E9%9B%86 多个中文指令数据集
+
+
 
 # 中文大模型测评
 
