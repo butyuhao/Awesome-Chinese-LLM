@@ -14,6 +14,8 @@
 
 # 中文大模型
 
+https://github.com/ydli-ai/Chinese-ChatLLaMA 中文ChatLlama
+
 https://github.com/LianjiaTech/BELLE 基于BLOOM和LLAMA针对中文做了优化
 
 https://github.com/THUDM/GLM 清华THUDM开源的中/英预训练模型
